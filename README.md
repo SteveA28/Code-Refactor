@@ -12,7 +12,7 @@ I used visual studio code to refactor the codes then uploaded it using the githu
 
 Link to the deployed application: 
 
-add link HERE
+(https://stevea28.github.io/Code-Refactor)
 
 ## Credits
 
