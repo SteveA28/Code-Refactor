@@ -2,7 +2,9 @@
 
 ## Description
 
-In this challenge, I refactord the html code as well as the style.css code. 
+In this challenge, I refactord the html code as well as the style.css code.
+
+<img src="screenshot.png">
 
 ## Installation
 
