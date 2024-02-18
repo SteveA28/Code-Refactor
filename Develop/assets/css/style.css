@@ -1,3 +1,5 @@
+/* BODY */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,10 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* BODY ENDS */
+
+/* HEADER */
 
 .header {
     padding: 20px;
@@ -50,6 +56,10 @@ p {
     font-size: 16px;
 }
 
+/* HEADER ENDS*/
+
+/* HERO */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,11 +79,19 @@ p {
     margin-left: 25px;
 }
 
+/* HERO ENDS */
+
+/* CONTENT SECTION */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* CONTENT SECTION ENDS */
+
+/* BENEFITS SECTION */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +152,10 @@ p {
     max-width: 150px;
 }
 
+/* BENEFITS SECTION ENDS */
+
+/* SERVICES SECTION BEGINS */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +210,10 @@ p {
     font-size: 36px;
 }
 
+/* SERVICES SECTION ENDS */
+
+/* FOOTER */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +224,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* FOOTER ENDS */ 
